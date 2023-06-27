@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'MLB Logo Memory Game',
+  title: 'MLB Memory Game',
   description: 'Created by Quin Ashworth',
 }
 
