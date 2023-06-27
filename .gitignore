@@ -35,4 +35,4 @@ yarn-error.log*
 next-env.d.ts
 
 # images
-img/teamLogos
+src/app/img
